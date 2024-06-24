@@ -1,0 +1,13 @@
+pandas
+optuna
+numpy
+matplotlib
+plotly
+seaborn
+colorama
+IPython
+scipy
+scikit-learn
+lightgbm
+catboost
+mysql-connector-python
